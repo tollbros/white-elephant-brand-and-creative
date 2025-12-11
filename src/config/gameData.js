@@ -43,7 +43,7 @@ export const giftsData = [
   { id: 3,name: "Winter Gloves", link: "https://a.co/d/gS0pO7s", imageFile: "gift3.jpg" },
   { id: 4, name: "Rechargeable Hand Warmers",link: "https://www.amazon.com/Magnetic-Rechargeable-Settings-Certified-Essentials/dp/B0FJFW9MP7/",imageFile: "gift4.jpg" },
   { id: 5, name: "Electric Mug Warmer", link: "https://www.amazon.com/Coffee-Electric-Aluminum-Beverage-Valetines/dp/B0CCTPNZD4", imageFile: "gift5.jpg" },
-  { id: 6, name: "Chicken Socks", link: "https://www.amazon.com/Qeokfgl-Stocking-Stuffers-Elephant-Christmas/dp/B0DJ2F119Q/?th=1&psc=1", imageFile: "gift6.jpg" },
+  { id: 6, name: "Puppy Paw Socks", link: "https://www.amazon.com/dp/B08C6Y4QND?_encoding=UTF8&ref=cm_sw_r_cp_ud_dp_C4TZD1CM876CNHPEB4QC&ref_=cm_sw_r_cp_ud_dp_C4TZD1CM876CNHPEB4QC&social_share=cm_sw_r_cp_ud_dp_C4TZD1CM876CNHPEB4QC&th=1&psc=1", imageFile: "gift6.jpg" },
   { id: 7, name: "Camping Cookware Kit", link: "https://www.amazon.com/dp/B0B7MNF8YJ?ref=cm_sw_r_cp_ud_dp_RQZF9P3G5F3YZMJYXGB3&ref_=cm_sw_r_cp_ud_dp_RQZF9P3G5F3YZMJYXGB3&social_share=cm_sw_r_cp_ud_dp_RQZF9P3G5F3YZMJYXGB3", imageFile: "gift7.jpg" },
   { id: 8, name: "Drift Car Air Freshener", link: "https://a.co/d/etiNgUe", imageFile: "gift8.jpg" },
   { id: 9, name: "Movie Night Popcorn Kit", link: "https://a.co/d/a57XKb3", imageFile: "gift9.jpg" },
