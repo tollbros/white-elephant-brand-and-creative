@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/white-elephant-brand-and-creative/static/css/main.8c2c53c0.css",
-    "main.js": "/white-elephant-brand-and-creative/static/js/main.a9df5255.js",
+    "main.js": "/white-elephant-brand-and-creative/static/js/main.141210a4.js",
     "static/media/gift21.jpg": "/white-elephant-brand-and-creative/static/media/gift21.bcd1e35aff1627d15a1b.jpg",
     "static/media/gift9.jpg": "/white-elephant-brand-and-creative/static/media/gift9.ed25a4dee89bcce1bfa2.jpg",
     "static/media/gift3.jpg": "/white-elephant-brand-and-creative/static/media/gift3.782dd7d2fb6b1604a47c.jpg",
@@ -17,12 +17,12 @@
     "static/media/gift23.jpg": "/white-elephant-brand-and-creative/static/media/gift23.ae896c49a720df9ed94b.jpg",
     "static/media/gift27.jpg": "/white-elephant-brand-and-creative/static/media/gift27.aa5c52a121a9a274d412.jpg",
     "static/media/gift15.jpg": "/white-elephant-brand-and-creative/static/media/gift15.1256b5e8a2610ff978a5.jpg",
-    "static/media/gift6.jpg": "/white-elephant-brand-and-creative/static/media/gift6.31d0b747eff639681c45.jpg",
     "static/media/gift2.jpg": "/white-elephant-brand-and-creative/static/media/gift2.c32745c06ea426b295f3.jpg",
     "static/media/gift29.jpg": "/white-elephant-brand-and-creative/static/media/gift29.70c1f15824c7affc3838.jpg",
     "static/media/gift7.jpg": "/white-elephant-brand-and-creative/static/media/gift7.5bf01ff5bcef05f72997.jpg",
     "static/media/gift25.jpg": "/white-elephant-brand-and-creative/static/media/gift25.2bdb09b35ffcdf8377ac.jpg",
     "static/media/gift16.jpg": "/white-elephant-brand-and-creative/static/media/gift16.db32e92bd5326e8209b1.jpg",
+    "static/media/gift6.jpg": "/white-elephant-brand-and-creative/static/media/gift6.10ce99e33629704aea47.jpg",
     "static/media/gift26.jpg": "/white-elephant-brand-and-creative/static/media/gift26.11ff9702f7b08728295e.jpg",
     "static/media/gift12.jpg": "/white-elephant-brand-and-creative/static/media/gift12.4ec3c05b95a36af64688.jpg",
     "static/media/gift17.jpg": "/white-elephant-brand-and-creative/static/media/gift17.69f1608c809539734545.jpg",
@@ -40,10 +40,10 @@
     "static/media/gift8.jpg": "/white-elephant-brand-and-creative/static/media/gift8.ac7fe9c1cdac6b42c2b9.jpg",
     "index.html": "/white-elephant-brand-and-creative/index.html",
     "main.8c2c53c0.css.map": "/white-elephant-brand-and-creative/static/css/main.8c2c53c0.css.map",
-    "main.a9df5255.js.map": "/white-elephant-brand-and-creative/static/js/main.a9df5255.js.map"
+    "main.141210a4.js.map": "/white-elephant-brand-and-creative/static/js/main.141210a4.js.map"
   },
   "entrypoints": [
     "static/css/main.8c2c53c0.css",
-    "static/js/main.a9df5255.js"
+    "static/js/main.141210a4.js"
   ]
 }
