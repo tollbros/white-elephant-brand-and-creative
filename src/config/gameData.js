@@ -33,7 +33,7 @@ export const basePlayers = [
   "Sarah Day",
   "Sarah Short",
   "Sherif Ahmed",
-  "Beth Murphy",
+  "Stefanie Carter",
   "Michelle Mullen",
 ];
 
