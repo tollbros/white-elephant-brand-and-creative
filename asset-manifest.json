@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/white-elephant-brand-and-creative/static/css/main.8c2c53c0.css",
-    "main.js": "/white-elephant-brand-and-creative/static/js/main.916842e9.js",
+    "main.js": "/white-elephant-brand-and-creative/static/js/main.a921e89a.js",
     "static/media/gift21.jpg": "/white-elephant-brand-and-creative/static/media/gift21.bcd1e35aff1627d15a1b.jpg",
     "static/media/gift9.jpg": "/white-elephant-brand-and-creative/static/media/gift9.ed25a4dee89bcce1bfa2.jpg",
     "static/media/gift3.jpg": "/white-elephant-brand-and-creative/static/media/gift3.782dd7d2fb6b1604a47c.jpg",
@@ -40,10 +40,10 @@
     "static/media/gift8.jpg": "/white-elephant-brand-and-creative/static/media/gift8.ac7fe9c1cdac6b42c2b9.jpg",
     "index.html": "/white-elephant-brand-and-creative/index.html",
     "main.8c2c53c0.css.map": "/white-elephant-brand-and-creative/static/css/main.8c2c53c0.css.map",
-    "main.916842e9.js.map": "/white-elephant-brand-and-creative/static/js/main.916842e9.js.map"
+    "main.a921e89a.js.map": "/white-elephant-brand-and-creative/static/js/main.a921e89a.js.map"
   },
   "entrypoints": [
     "static/css/main.8c2c53c0.css",
-    "static/js/main.916842e9.js"
+    "static/js/main.a921e89a.js"
   ]
 }
